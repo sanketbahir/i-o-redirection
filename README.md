@@ -1,6 +1,6 @@
 # i-o-redirection
 
-# To put the input content in a file, use the following command:
+# To put the input content in a file, use the following command: 
 hostname > filename
 
 # Note: The above command will overwrite the content in the file.
